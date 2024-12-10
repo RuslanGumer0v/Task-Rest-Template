@@ -1,10 +1,5 @@
 package org.example.taskresttemplate.model;
 
-import lombok.*;
-
-//@Data
-//@AllArgsConstructor
-//@NoArgsConstructor
 public class User {
 
     private Long id;
